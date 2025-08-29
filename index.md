@@ -4,7 +4,3 @@
 - Lectures!
 - Homework!!
 - Github!!!
-
-```
-markdown test :3
-```
